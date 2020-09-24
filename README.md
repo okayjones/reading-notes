@@ -1,6 +1,6 @@
-# reading-notes
+# Reading Notes
 
-:notebook: *Reading notes for CodeFellows courses.*
+*Reading notes for CodeFellows courses.*
 
 ## Code 301 - Intermediate Software Development
 
