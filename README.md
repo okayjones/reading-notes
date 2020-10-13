@@ -9,5 +9,6 @@
 3. [Flexbox and Templating](03.md)
 4. [Responsive Web Design and Regular Expressions](04.md)
 5. [Heroku Deployment](05.md)
+6. [Node, Express, and APIs](06.md)
 
 ## Code 401 - Advanced Software Development
