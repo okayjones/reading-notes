@@ -10,6 +10,6 @@
 4. [Responsive Web Design and Regular Expressions](04.md)
 5. [Heroku Deployment](05.md)
 6. [Node, Express, and APIs](06.md)
-7. [API's Continued | REST](07.md)
+7. [API's Continued & REST](07.md)
 
 ## Code 401 - Advanced Software Development
