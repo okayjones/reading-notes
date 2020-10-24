@@ -12,5 +12,6 @@
 6. [Node, Express, and APIs](06.md)
 7. [API's Continued & REST](07.md)
 8. [SQL](08.md)
+9. [Refactoring](0.9md)
 
 ## Code 401 - Advanced Software Development
