@@ -13,5 +13,6 @@
 7. [API's Continued & REST](07.md)
 8. [SQL](08.md)
 9. [Refactoring](09.md)
+10. [The Call Stack and Debugging](10.md)
 
 ## Code 401 - Advanced Software Development
