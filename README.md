@@ -1,5 +1,7 @@
 # Reading Notes
 
+[https://okayjones.github.io/reading-notes/](https://okayjones.github.io/reading-notes/)
+
 *Reading notes for CodeFellows courses.*
 
 ## Code 301 - Intermediate Software Development
@@ -14,6 +16,11 @@
 8. [SQL](08.md)
 9. [Refactoring](09.md)
 10. [The Call Stack and Debugging](10.md)
+11. [EJS](11.md)
+12. [Components](12.md)
+13. [Sending Form Data](13.md)
+14. [Database Normalization](14.md)
+15. [Diversity and Inclusion](15.md)
 
 ## Code 401 - Advanced Software Development
 
