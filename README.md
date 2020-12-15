@@ -27,3 +27,4 @@
 1. [Class 01](class01.md)
 2. [Testing and Modules](class02.md)
 3. [FileIO & Exceptions](class03.md)
+4. [Class 04](class04.md)
