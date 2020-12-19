@@ -6,7 +6,7 @@
 
 [Source: What's a Linked List, Anyway? Part 2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
 
-A sequence of `Nodes` that are connected/linked to each other. Each `Node` references the next. Linear data structure. 
+A sequence of `Nodes` that are connected/linked to each other. Each `Node` references the next. Linear data structure.
 
 ![linked list](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/images/LinkedList1.PNG)
 
