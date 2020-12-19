@@ -28,3 +28,4 @@
 2. [Testing and Modules](class02.md)
 3. [FileIO & Exceptions](class03.md)
 4. [Class 04](class04.md)
+5. [Linked Lists](class05.md)
