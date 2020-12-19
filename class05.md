@@ -6,23 +6,20 @@
 
 [Source: What's a Linked List, Anyway? Part 2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
 
-A sequence of `Nodes` that are connected/linked to each other. Each `Node` references the next.
+A sequence of `Nodes` that are connected/linked to each other. Each `Node` references the next. Linear data structure. 
 
 ![linked list](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/images/LinkedList1.PNG)
 
 ## Terms
 
 - `Singly` - Each `Node` has one reference. Points to `Next`
-
 - `Doubly` - Each `Node` has two references. Point to `Next` and `Previous`
-
+- `Circular` - `Tail` reference node points to `Head` instead of Null
 - `Node` - Items/links in a linked list
-
 - `Next` - Property on a `Node` containing reference to next node
-
 - `Head` - Reference type of node to the first node in a linked list
-
-- `Current` Reference type of node to the node currently being looked at. Helpful when traversing. Reset to head when done.
+- `Tail` - Reference type of node to the last node in a circular linked list
+- `Current` - Reference type of node to the node currently being looked at. Helpful when traversing. Reset to head when done.
 
 ## Traversal
 
@@ -117,9 +114,26 @@ ALGORITHM Print()
   - Time: O(n) -- worst case is last
   - Space: O(1) -- no extra space needed besides list itself
 - Adding
-  - O(1) - Start
-  - 0(n) - Middle/End
+  - Start: O(1) -- constant
+  - Middle/End: O(n) -- linear
 
 ## Memory
 
-## versus Arrays
+In a dynamically typed language (JS, Python) we don't think about memory use because types are abstracted from us. It's happening, but we don't see it.
+
+### Array
+
+- Store entire array memory sequentially
+- Static data structure, new memory allocated for entire array when needs change
+- Copy elements to change
+
+### Linked List
+
+- Nodes can be stored in various locations
+- Dynamic data structure, memory added/removed as elemented added/removed
+- Rearrange pointers to change
+
+## Advantages / Disadvantages
+
+- `Good`  Memory efficient when adding/removing
+- `Bad` Memory iniefficent when searching
