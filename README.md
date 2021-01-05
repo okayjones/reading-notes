@@ -29,4 +29,5 @@
 3. [FileIO & Exceptions](class03.md)
 4. [Class 04](class04.md)
 5. [Linked Lists](class05.md)
-6. [Game of Green 1](class06.md)
+6. [Game of Greed 1](class06.md)
+7. [Game of Greed 2](class07.md)
