@@ -31,3 +31,4 @@
 5. [Linked Lists](class05.md)
 6. [Game of Greed 1](class06.md)
 7. [Game of Greed 2](class07.md)
+8. [Game of Greed 3](class08.md)
