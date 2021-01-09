@@ -152,4 +152,36 @@ def validate_transaction(acc, amount_to_add):
 
 ## Probability
 
+- `Probability` - Theory: likelihood of an event happening
+- `Sample space` - the set of all possible events (heads / tails)
+- `Statistics` - Tools: calculate probability from real world observations
+
+### Example
+
+Higher number of trials gets closer to replicating probability
+
+```python
+import random
+def coin_trial():
+heads = 0
+for i in range(100):
+    if random.random() <= 0.5:
+        heads +=1
+    return heads
+def simulate(n):
+    trials = []
+    for i in range(n):
+        trials.append(coin_trial())
+    return(sum(trials)/n)
+simulate(10)
+>>> 5.4
+simulate(100)
+>>> 4.83
+simulate(1000)
+>>> 5.055
+simulate(1000000)
+>>> 4.999781
+```
+
+
 [Source: Tutorial: Basic Statistics in Python — Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)
