@@ -15,7 +15,7 @@ Stacks operate as LIFO (Last In First Out). All actions operate on the top of th
 
 ## Queues
 
-Queues operate as FIFO (First In First Out)
+Queues operate as FIFO (First In First Out). Items removed from front of queue, but added to end.
 
 1. `Enqueue` - Add to back of the queue
 2. `Dequeue` - Remove from front of the queue
