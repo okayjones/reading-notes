@@ -34,3 +34,4 @@
 8. [Game of Greed 3](class08.md)
 9. [Game of Green 4](class09.md)
 10. [Stacks and Queues](class10.md)
+11. [Data Analysis](class11.md)
