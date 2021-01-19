@@ -35,3 +35,4 @@
 9. [Game of Green 4](class09.md)
 10. [Stacks and Queues](class10.md)
 11. [Data Analysis](class11.md)
+12. [Pandas](class12.md)
