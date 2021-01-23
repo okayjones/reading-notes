@@ -36,3 +36,4 @@
 10. [Stacks and Queues](class10.md)
 11. [Data Analysis](class11.md)
 12. [Pandas](class12.md)
+13. [Linear Regressions](class13.md)
