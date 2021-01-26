@@ -37,3 +37,4 @@
 11. [Data Analysis](class11.md)
 12. [Pandas](class12.md)
 13. [Linear Regressions](class13.md)
+14. [MatPlotLib](class14.md)
