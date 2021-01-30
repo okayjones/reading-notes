@@ -38,3 +38,5 @@
 12. [Pandas](class12.md)
 13. [Linear Regressions](class13.md)
 14. [MatPlotLib](class14.md)
+15. [Trees](class15.md)
+16. 
