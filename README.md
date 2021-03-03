@@ -43,3 +43,4 @@
 17. [Cryptography](class18.md)
 18. [Automation](class19.md)
 19. [Django](class26.md)
+20. [Django Models](class27.md)
