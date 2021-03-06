@@ -44,3 +44,4 @@
 18. [Automation](class19.md)
 19. [Django](class26.md)
 20. [Django Models](class27.md)
+21. [Django CRUD and Forms](class28.md)
