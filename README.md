@@ -45,3 +45,4 @@
 19. [Django](class26.md)
 20. [Django Models](class27.md)
 21. [Django CRUD and Forms](class28.md)
+22. [Django User Model & DjangoX](class29.md)
