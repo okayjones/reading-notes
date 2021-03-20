@@ -48,3 +48,4 @@
 22. [Django User Model & DjangoX](class29.md)
 23. [Hash Tables](class30.md)
 24. [Django REST & Docker](class31.md)
+25. [DRF Permissions](class32.md)
