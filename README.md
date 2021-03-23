@@ -49,3 +49,4 @@
 23. [Hash Tables](class30.md)
 24. [Django REST & Docker](class31.md)
 25. [DRF Permissions](class32.md)
+26. [JSON Web Tokens](class33.md)
