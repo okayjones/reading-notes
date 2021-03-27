@@ -50,3 +50,4 @@
 24. [Django REST & Docker](class31.md)
 25. [DRF Permissions](class32.md)
 26. [JSON Web Tokens](class33.md)
+27. [API Deployment](class34.md)
