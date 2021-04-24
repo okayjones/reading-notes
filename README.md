@@ -57,3 +57,4 @@
 31. [React II](class38.md)
 32. [React III](class39.md)
 33. [React IV](class41.md)
+34. [Pythonisms](class42.md)
