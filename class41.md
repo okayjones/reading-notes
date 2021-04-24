@@ -1,5 +1,11 @@
 # React IV
 
+## Next.js - Dynamic Routes
+
+[Source: Dynamic Routes](https://nextjs.org/learn/basics/dynamic-routes)
+
+![routes example](https://nextjs.org/static/images/learn/dynamic-routes/page-path-external-data.png)
+
 ## Next.js - Deployment
 
 [Source: Deploying Your Next.js App](https://nextjs.org/learn/basics/deploying-nextjs-app)
