@@ -58,3 +58,4 @@
 32. [React III](class39.md)
 33. [React IV](class41.md)
 34. [Pythonisms](class42.md)
+35. [Ethics](class43.md)
